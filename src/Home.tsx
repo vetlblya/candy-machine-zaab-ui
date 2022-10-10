@@ -586,10 +586,10 @@ const Home = (props: HomeProps) => {
     <main>
       <MainContainer className="maincontainer">
         <LeftContainer className="leftcontainer">
-          <Image className="nft-image" src="yourimagehere.png" alt="Mint a YOURNFT" />
+          <Image className="nft-image" src="1.png" alt="Mint a Num and Chars in Solana chain" />
         </LeftContainer>
         <RightContainer className="rightcontainer">
-          <MainTitle className="maintitle">Your NFT Name</MainTitle>
+          <MainTitle className="maintitle">Solana Nums and Chars</MainTitle>
           <InfoContainer>
             <TotalItems className="totalitems">Total Items {itemsAvailable}</TotalItems>
             <Price className="price">Price ◎ {isActive && whitelistEnabled && (whitelistTokenBalance > 0) ? (whitelistPrice + " ") : (price + " ")} </Price>

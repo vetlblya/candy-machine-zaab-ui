@@ -1,6 +1,6 @@
 {
-  "short_name": "Zaab CM",
-  "name": "Zaab Responsive Candy Machine",
+  "short_name": "manifest.json short name",
+  "name": "manifest.json name",
   "icons": [
     {
       "src": "favicon.png",
